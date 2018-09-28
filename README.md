@@ -40,5 +40,4 @@ Ordered list:
 == Frequently Asked Questions ==
 
 = Does this plugin work with newest WP version and also older versions? =
-Yes, this plugin works really fine with WordPress 3.3!
-It also works great with WP 3.2 
+Yes, this plugin works really fine with WordPress latest version
